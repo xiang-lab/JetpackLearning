@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My_notes</string>
+    <string name="note_list_title">全部笔记</string>
+</resources>
